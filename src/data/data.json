@@ -1,0 +1,321 @@
+{
+  "Header": {
+    "title": "Future of ",
+    "paragraph": "Experience the future of security with our cutting-edge solutions in facial recognition, vehicle detection, and comprehensive surveillance. Stay protected, stay ahead."
+  },
+  "About": {
+    "paragraph": "ESSI is a leading player in the Security, Transportation, Tolling, Parking, Smart Card Solution, Biometrics and RF Identification. Our focus is to develop customized solutions derived from the needs of the customer & the knowledge of cutting edge technology in association with the world leaders. We deliver effective solutions to a wide variety of terrorism-driven security challenges. We go to great lengths to guarantee a superior level of professionalism, discretion and confidentiality. The success of ESSI Integrated Technologies is based on award winning products, forging client relationships, understanding client’s requirements, meeting client’s needs consistently.The close personal involvement of our principles in the daily operation of each account, our commitment to the highest quality service, and our aggressive cost control procedures enable us to provide the best value in the industry. ESSI strives for to be your first choice to address your security needs swiftly and proficiently.",
+    "Why": [  
+      "Industry Leadership",
+      "Comprehensive Expertise",
+      "Wide Reach",
+      "Advanced Technology"
+    ],
+    "Why2": [
+      "Custom Solutions",
+      "Proven Track Record",
+      "Dedicated Support",
+      "Strategic Implementation"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/gallery/1.jpeg",
+      "smallImage": "img/gallery/1.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/gallery/2.jpg",
+      "smallImage": "img/gallery/2.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/gallery/3.jpeg",
+      "smallImage": "img/gallery/3.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/gallery/4.jpeg",
+      "smallImage": "img/gallery/4.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/gallery/5.jpeg",
+      "smallImage": "img/gallery/5.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/gallery/6.jpeg",
+      "smallImage": "img/gallery/6.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/gallery/7.jpeg",
+      "smallImage": "img/gallery/7.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/gallery/8.jpg",
+      "smallImage": "img/gallery/8.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/gallery/9.jpeg",
+      "smallImage": "img/gallery/9.jpeg"
+    }
+  ],
+  
+  "Products": [
+    {
+      "id": 1,
+      "img": "img/products/p1.jpg",
+      "name": "Active Bollard",
+      "subTitle":"ESSI Hydraulic Bollards crash Rated for A-40KN,B- 180KN,C- 350KN.Bollard System is equipped with Integrated Electro Hydraulic Drive Unit that can operate Single or Multiple bollards in various combinations. ( It is possible to have One Drive unit to operate 3 Bollards in each Road Lane for Up to SIX lanes).The Hydraulic Fluid recommended to be used is Bio Degradable",
+      "text": "ESSI Hydraulic Bollards crash Rated for A-40KN,B- 180KN,C- 350KN.Bollard System is equipped with Integrated Electro Hydraulic Drive Unit that can operate Single or Multiple bollards in various combinations. ( It is possible to have One Drive unit to operate 3 Bollards in each Road Lane for Up to SIX lanes).The Hydraulic Fluid recommended to be used is Bio Degradable",
+      "keyFeatures": [
+        "Compact hydraulic unit with motor, pump, solenoid valve and high pressure hydraulic cylinder.",
+        "Red flashing light in blocking element.",
+        "Emergency operation during power failure using hand pump.",
+        "Control in separate control box.",
+        "Blocking height: A-650mm/ B-800mm",
+        "Available impact/Cash strengths:  DSP1-450kN, DSP2-600kN, DSP3-900kN, DSP4-1250kN and DSP5-2500kN",
+        "Can be standard/ automatic control/ fully automatic operational with central command and control for multiple units- with video feeds/ 2-way voice communication and central operation control with data logging.",
+        "Long term corrosion protection through galvanizing and 3 layers of bonded plastic 4S.",
+        "DRDO- CCE (R&D) and Certified for confirming compliance with stated impact strength/ crash rating and equivalence to  ASTM f 2656 -07 / UK PAS / DOS K ratings."
+       ],
+      "technologiesUsed": [
+        "The Road Blocker is operated by high speed hydraulic cylinders. A power pack containing an electric motor – pump assembly and an accumulator/handle for manual operation (in case of power failure) is installed up to a distance of 20 meters from the barrier in all weatherproof lockable steel casing on a concrete Base. The operation time for moving the blocker up & down can be from 2 to 6 seconds. When activated, the extremely heavy blocking segment will extend and block the entry. The average blocking height is 650 mm. With a dynamic road blocker, the barrier is 'lifted' and can therefore reach a blocking height of 850 mm. Due to the  eye-catching warning color and the warning lights the blocking segment is clearly visible to approaching vehicles which allows the vehicles to stop in good time. In the lowered position the Road Blocker is absolutely unobtrusive and flush with the road surface."
+      ],
+      "details": "Detailed information about Product 1"
+    },
+    {
+      "id": 2,
+      "img": "img/products/p1.jpg",
+      "name": "Road Blockers",
+      "subTitle":"ESSI Road Blocker offers maximum security for highly sensitive, entry-exit point against unauthorized vehicles of all sizes and weights. Crash tests carried out under the supervision of the TV (Technical Inspection Agency) with an impact of a 7.5 ton truck traveling at 80 km/h certify the high reliability of the Road Blocker , heavy duty vehicles at highSpeed is also reliably stopped.The Road Blockers DSP are designed to remain fully operational after the impact and consequently continue to guarantee the full level of security.",
+      "text": "ESSI Road Blocker offers maximum security for highly sensitive, entry-exit point against unauthorized vehicles of all sizes and weights. Crash tests carried out under the supervision of the TV (Technical Inspection Agency) with an impact of a 7.5 ton truck traveling at 80 km/h certify the high reliability of the Road Blocker , heavy duty vehicles at highSpeed is also reliably stopped.The Road Blockers DSP are designed to remain fully operational after the impact and consequently continue to guarantee the full level of security.",
+      "keyFeatures": [
+        "Compact hydraulic unit with motor, pump, solenoid valve and high pressure hydraulic cylinder.",
+        "Red flashing light in blocking element.",
+        "Emergency operation during power failure using hand pump.",
+        "Control in separate control box.",
+        "Blocking height: A-650mm/ B-800mm",
+        "Available impact/Cash strengths: DSP1-450kN, DSP2-600kN, DSP3-900kN, DSP4-1250kN and DSP5-2500kN",
+        "Can be standard/ automatic control/ fully automatic operational with central command and control for multiple units- with video feeds/ 2-way voice communication and central operation control with data logging.",
+        "Long term corrosion protection through galvanizing and 3 layers of bonded plastic 4S.",
+        "DRDO- CCE (R&D) and Certified for confirming compliance with stated impact strength/ crash rating and equivalence to ASTM f 2656 -07 / UK PAS / DOS K ratings."
+      ],
+      "technologiesUsed": [
+        "The Road Blocker is operated by high speed hydraulic cylinders. A power pack containing an electric motor – pump assembly and an accumulator/handle for manual operation (in case of power failure) is installed up to a distance of 20 meters from the barrier in all weatherproof lockable steel casing on a concrete Base. The operation time for moving the blocker up & down can be from 2 to 6 seconds. When activated, the extremely heavy blocking segment will extend and block the entry. The average blocking height is 650 mm. With a dynamic road blocker, the barrier is 'lifted' and can therefore reach a blocking height of 850 mm. Due to the  eye-catching warning color and the warning lights the blocking segment is clearly visible to approaching vehicles which allows the vehicles to stop in good time. In the lowered position the Road Blocker is absolutely unobtrusive and flush with the road surface."
+      ],
+      "details": "Detailed information about Product 1"
+    },
+    {
+      "id": 3,
+      "img": "img/products/p1.jpg",
+      "name": "Tyre Killers",
+      "subTitle":"The ESSI Tyre Killers offers vulnerable installations, a high level of security against unauthorized vehicles forcibly entering or exiting the premises. If a vehicle  attempts to break through, both the tyres and axles will be destroyed and entrance of the vehicle will definitely be prevented. The ESSI Tyre Killers can be installed individually or in combination with other ESSI products to create a secure and impenetrable vehicle checkpoint.",
+      "text": "The ESSI Tyre Killers offers vulnerable installations, a high level of security against unauthorized vehicles forcibly entering or exiting the premises. If a vehicle  attempts to break through, both the tyres and axles will be destroyed and entrance of the vehicle will definitely be prevented. The ESSI Tyre Killers can be installed individually or in combination with other ESSI products to create a secure and impenetrable vehicle checkpoint.",
+      "keyFeatures": [
+        "Blocking spikes in 60 blocking positions, approx. 450 mm over ground level.",
+        "Distance between blocking spikes 200 mm.",
+        "Extension time 2-3 sec.",
+        "Wheel load 100 kN.",
+        "Installation depth 500 mm.",
+        "Control in separate control box for mounting on wall in a building.",
+        "Available Drive Units : S- Single(1) Unit, D – Double (2) Unit, T- Triple(3) Unit, Q- Quattro (4).",
+        "Long term corrosion protection through galvanizing and 3 layers on bonded plastic 4S.",
+        "DRDO- CCE (R&D) and Certified for confirming compliance with stated impact strength / crash rating and equivalence to ASTM f 2656 -07 / UK PAS / DOS K ratings.",
+        "ISO 9001 :2008 by DNV.",
+        "Can be standard/ automatic control/ fully automatic operational with central command and control for multiple units- with video feeds/ 2-way voice communication and central operation control with data logging."
+      ],
+      "technologiesUsed": [
+        "The Tyre Killers is operated by high speed hydraulic cylinders. A power pack containing an electric motor – pump assembly and an accumulator/handle for manual operation(in case of power failure) is installed up to a distance of 20 meters from the tyre killer in all weatherproof lockable steel casing on a concrete base. The solid spikes can be raised either automatically or manually. It takes approx. 2 seconds and access will be blocked with a barrier height of 80-450mm.When the tyre killer is in the lowered position, it is completely unobtrusive and is flushed with the road surface."
+      ],
+      "details": "Detailed information about Product 1"
+    },
+    
+    {
+      "id": 4,
+      "img": "img/products/p1.jpg",
+      "name": "Boom Barriers",
+      "subTitle":"ESSI offer an exclusive range of Automatic Boom Barriers which are used for providing security at the entry as well as exit points of toll tax areas, official spaces and other areas as well. We offer them with several in-built features as anti crash device which is offered to suspend the movement of any barrier.",
+      "text": "ESSI offer an exclusive range of Automatic Boom Barriers which are used for providing security at the entry as well as exit points of toll tax areas, official spaces and other areas as well. We offer them with several in-built features as anti crash device which is offered to suspend the movement of any barrier.This can be interfaced with any Access Control System, Surveillance System and Traffic Monitoring System as well to provide high security",
+      "keyFeatures": [
+        "Security at the entry as well as exit points.",
+        "The limit switches for slowdown during both opening and closing can be adjusted both mechanically and electronically.",
+        "Reliable electro-mechanical drive.",
+        "Robust power transmission.",
+        "Damping into open and closed position.",
+        "Adjustable clutch.",
+        "Pole of strong light alloy.",
+        "Complete unit ready for connection.",
+        "Pole stand of steel.",
+        "Long term corrosion protection."
+      ],
+      "technologiesUsed": [
+        "Entire system is powered by 24 Volts DC to avoid electrocution and to integrate barrier with other peripheral safety devices such as access control system, optical beam sensor, etc. for greater flexibility and  assure safety. The barrier is activated either by a single touch push button or remote control. However its electronic control panel is designed to accept signals from various controls and safety accessories such as beam sensor (optional), magnetic card reader (optional), computer, etc."
+      ],
+      "details": "Detailed information about Product 1"
+    },
+    {
+      "id": 5,
+      "img": "img/products/p1.jpg",
+      "name": "Flap-Barriers",
+      "subTitle":"Detailed information about Product 1",
+      "text": "ESSI also offer an exclusive range of Retractable Flap Barrier which is  fabricated using sturdy material to ensure long service life. These are user  friendly and open up in less than a time of .8 seconds. Our barriers are  incorporated with access control system to ensure automatic clearance, while keeping accurate record. Our Flap Barriers are easy to operate as well.",
+      "keyFeatures": [
+        "Rapid identification technique available to identify accurately and efficiently the magnetic card, barcode card etc.",
+        "Personalization for all type of ticket readers or contactless antenna.",
+        "With direction indication, guiding passenger to entry and exit.",
+        "Real time failure self-detect and alarm indication, ensuring system safe operation and facilitating maintenance and operation.",
+        "High flow rates of people depending on reader validation reaction speed.",
+        "Passage width: 20\" to 24\" for TGF with single flap panels and 32\" to 36\" for TGF with telescopic flap panel.",
+        "A dissuasive access control in one or both directions."
+      ],
+      "technologiesUsed": [
+        "The construction consists of different segments bolt together. The middle segment contains the controller and drive unit. The middle segment has two hinged locked doors providing optimum access to the controller and drive mechanism. Various optional access control devices (such as card readers, finger print readers etc.) can be accommodated on a stainless steel fascia panel located at each end segment of the MPR. The pedestrian retractable barrier, designed for indoor installations, is made up of polished steel plate 430 stainless steel with protection class IP 32."
+      ],
+      "details": "Detailed information about Product 1"
+    }
+  ],
+  "Clients": [
+    {
+      "img": "img/clients/1.jpg",
+      "text": "\"Parliament House\"",
+      "name": "Parliament House"
+    },
+    {
+      "img": "img/clients/2.jpg",
+      "text": "\"Delhi Secretariat\"",
+      "name": "Delhi Secretariat"
+    },
+    {
+      "img": "img/clients/3.jpg",
+      "text": "\"Delhi Internatinal Airport Ltd.\"",
+      "name": "Delhi Internatinal Airport Ltd."
+    },
+    {
+      "img": "img/clients/4.jpg",
+      "text": "\"Ministry of Defence\"",
+      "name": "Ministry of Defence"
+    },
+    {
+      "img": "img/clients/5.jpg",
+      "text": "\"Karkardooma Court , Delhi\"",
+      "name": "Karkardooma Court , Delhi"
+    },
+    {
+      "img": "img/clients/6.jpg",
+      "text": "\"Jaypee Sports\"",
+      "name": "Jaypee Sports"
+    }
+    
+    
+    
+  ],
+  "Partners": [
+    {
+      "img": "img/partners/ibm-logo.jpeg"
+    },
+    {
+      "img": "img/partners/Dlink Logo.jpeg"
+    },
+    {
+      "img": "img/partners/Cisco_logo.svg.jpeg"
+    },
+    {
+      "img": "img/partners/axis.jpeg"
+    },
+    {
+      "img": "img/partners/basler.jpeg"
+    },
+    {
+      "img": "img/partners/Bosch-logo.jpeg"
+    }
+  ],
+  "Contact": {
+    "address": "Mercantile House, 15 KG Marg, 101 New Delhi, Delhi 110001, IN ",
+    "phone": "+91-0000000000",
+    "email": "info@essi.co.in",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Services": [
+    {
+      "id":1,
+      "img": "img/products/p1.jpg",
+      "icon": "fa fa-comments-o",
+      "title": "Consulting",
+      "text": "ESSI Integrated Technologies Pvt. Ltd. offers consultancy in various security domains including IT security, physical security, and fraud prevention through advanced technologies, serving both private and public sectors efficiently.",
+      "overview": "ESSI Integrated Technologies Pvt. Ltd. offers consultancy in various security domains including IT security, physical security, and fraud prevention through advanced technologies, serving both private and public sectors efficiently.",
+      "service": [
+        "Deep technical skills and continual research.",
+        "Expertise understanding of clients dilemma or problem.",
+        "Highly specialized and experience of all relevant domains team.",
+        "Client needs our top most priority.",
+        "24x7 assistance for clients by specialized professionals.",
+        "Crystal clear reporting style.",
+        "Excellent presentation skills.",
+        "100% confident for our solution success.",
+        "All associated hazards and risk management.",
+        "Believe in freeing clients from all relevant headaches.",
+        "Believe in providing best and cheapest solution.",
+        "We consider our clients as our in mates and their headache is ours."      
+      ]
+    },
+    {
+      "id":2,
+      "img": "img/products/p1.jpg",
+      "icon": "fa fa-bullhorn",
+      "title": "System Integration",
+      "text": "ESSI provides comprehensive System Integration solutions and services for existing and customized applications. We specialize in application development and service-oriented applications for our clients.",
+      "overview": "ESSI provides comprehensive System Integration solutions and services for existing and customized applications. We specialize in application development and service-oriented applications for our clients.",
+      "service": [
+        "Continual research of existing products and software components.",
+        "Efficient and full utilization of resources integrated.",
+        "Use of latest and best technologies.",
+        "Integration with existing or new hardware’s.",
+        "Prevent excess use of external resources as much possible without compromising application performance.",
+        "Clients can rely on us for their demands.",
+        "24 x 7 support for troubleshooting or any other assistance.",
+        "Experts research and development team."     
+      ]
+    },
+    {
+      "id":3,
+      "icon": "fa fa-group",
+      "img": "img/products/p1.jpg",
+      "title": "Operation",
+      "text": "ESSI offers thorough training and support to customers for smooth system execution post-installation. We provide detailed step-by-step manuals to ensure users can easily understand and operate the system.",
+      "overview": "Our training program is well structured and equipped with all the required material. We provide well organized classroom facility where proper steps from taking attendance to feedback by customer are followed strictly. After completion of program we also provide review classes, if required and tests to clear that the operators are now fully furnish and ready to operate our system without any troubles. After classes , catalogs and manuals containing  clear and strictly non ambiguous step by step explanation of software in such a way that even person from non – technical background would be able to operate easily through reading this manual, besides this all the troubleshoot possible and steps to resolve them are also incorporated in manual for better use and functionality.",
+      "service": [
+        "Rigorously scheduled classes.",
+        "Proper study material has provided.",
+        "Clear and explained Operating Manual is provided.",
+        "ESSI operator for 24 X 7 support inside the premises on demand.",
+        "24 x 7 customer support.",
+        "Review classes and performance tests for motivation and evaluation."      
+      ]
+    },
+    {
+      "id":4,
+      "img": "img/products/p1.jpg",
+      "icon": "fa fa-magic",
+      "title": "Annual maintenance contract",
+      "text": "In today's competitive era, quality is paramount.To help our customers achieve optimal throughput, we offer Annual Maintenance Contracts, ensuring high-quality output ",
+      "overview": "ESSI Integrated Technologies Pvt.Ltd. provides consultancy services in wide range of security domains i.e. IT security, physical security and fraud prevention through information technologies and other latest technologies use, to both the private and public sectors. \n Our consulting services are aimed at offering you the best possible professional solution for your personal or company's security fears and/or problems.",
+      "service": [
+        "Provides services between 9 am to 9 pm, Monday to Sunday and 24/7, 365 days with 6 hours resolution commitment.",
+        "Giant technical team to take care on maintenance.",
+        "Better service levels at lower overall cost.",
+        "You can repair the product you purchase many times until it is no longer repairable, then it will be replaced with the same product of its like kind and quality.",
+        "Certified technicians skilled in cross-platform environments.",
+        "Ability to provide or supplement in-house maintenance.",
+        "Get special prices on the consumables."      
+      ]
+    }
+  ]
+}
